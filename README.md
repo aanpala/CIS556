@@ -1,5 +1,4 @@
-# CIS 556
-United States of America Election Landscape Analysis (1976-2020)
+# United States of America Election Landscape Analysis (1976-2020)
 
 **Introduction**
 
